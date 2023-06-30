@@ -2,8 +2,7 @@
 Tentang Ddos
 Tentang Ddos ------->
 git clone 
-https://github.com/KiranCip/The-
-ddos
+https://github.com/KiranCip/The-ddos
 
 sehabis itu lalu cd The-ddos
 
