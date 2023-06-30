@@ -1,2 +1,0 @@
-# The-ddos
-Tentang Ddos
